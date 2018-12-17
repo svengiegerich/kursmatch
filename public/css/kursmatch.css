@@ -1,0 +1,47 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+footer {
+  background: #0069B4;
+  color: #fff;
+}
+
+footer .row {
+  max-width: 1100px;
+  padding: 30px 0px 30px 0px;
+  margin: 0 auto;
+}
+
+#logoand {
+  font-size: 25px;
+  padding: 0px 10px;
+  padding-top: 10px;
+}
+
+#nav h3 {
+  padding-top: 30px;
+}
+
+#logos {
+}
+
+#p select {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#p label {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#sortable {
+  font-size: 18px;
+}
+
+#rank_index {
+  color: red;
+  font-weight: bold;
+}
