@@ -14,7 +14,7 @@ For more information just contact [us](#contributors).
 ## Example
 
 Allocation of seminar places (e.g. for next semester):
-![Kursmatch at University Mannheim](https://github.com/svengiegerich/kursmatch.local/blob/master/screenshots/5_e.jpg)
+![Kursmatch at University Mannheim](https://github.com/svengiegerich/kursmatch/blob/master/screenshots/5_e.jpg)
 
 ## Contributors
 - [Thilo Klein](https://github.com/thiloklein)
